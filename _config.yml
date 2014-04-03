@@ -6,14 +6,14 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Neil Weisenfeld
-tagline:          'weisen -at- alum.mit.edu'
+title:            neil weisenfeld
+tagline:          
 description:      "I've been working at the intersection of computer science and biological research for more than a decade.  Here's what I'm thinking about these days."
-url:              http://lanyon.getpoole.com
+url:              http://www.neilweisenfeld.com
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Neil Weisenfeld'
+  url:            https://twitter.com/weisen
 
 paginate:         5
 
