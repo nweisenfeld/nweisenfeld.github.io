@@ -1,3 +1,24 @@
-name: neilweisenfeld.com
-markdown: redcarpet
-pygments: true
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Neil Weisenfeld
+tagline:          'weisen -at- alum.mit.edu'
+description:      "I've been working at the intersection of computer science and biological research for more than a decade.  Here's what I'm thinking about these days."
+url:              http://lanyon.getpoole.com
+
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
+
+paginate:         5
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/poole/lanyon

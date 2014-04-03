@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page 
 status: publish
 published: true
 title: Atlas Construction
