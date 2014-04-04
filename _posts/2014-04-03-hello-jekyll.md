@@ -2,7 +2,7 @@
 layout: post
 title: R.I.P.&nbsp;&nbsp;textdrive.com
 date: 2014-04-02 23:40:40
-category: web
+category: computing
 ---
 
 So up until recently, I had a little Wordpress blog that I hosted

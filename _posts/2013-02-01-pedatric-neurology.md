@@ -2,7 +2,7 @@
 layout: post
 title: A magnetic resonance imaging study of cerebellar volume in tuberous sclerosis complex
 date: 2013-03-01 13:00:00
-category: web
+categories: [science, imaging]
 ---
 
 I'm pleased to write that my last paper at Harvard Medical School
