@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A magnetic resonance imaging study of cerebellar volume in tuberous sclerosis complex
+title: cerebellar volume in tuberous sclerosis complex
 date: 2013-03-01 13:00:00
 categories: [science, imaging]
 ---
