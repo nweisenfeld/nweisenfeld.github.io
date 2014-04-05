@@ -5,11 +5,11 @@ date: 2014-04-02 23:40:40
 category: computing
 ---
 
-So up until recently, I had a little Wordpress blog that I hosted
+Up until recently, I had a little Wordpress blog that I hosted
 using a sevice called [Textdrive][]. Textdrive was a nice, simple
 Unix-based hosting solution that, prior to [Joyent][]'s purchase
 of the company, provided great value for $15/mo.  But sometime about
-a week ago, the lights went dark.  At this point I should point out
+a week ago, the lights went dark.  At this point I should mention
 that this was no longer Joyent's company. While Joyent seems to be
 focusing on major cloud services, the Textdrive of late was a reboot
 of the original shared-hosting provider, catering to the low-end.
