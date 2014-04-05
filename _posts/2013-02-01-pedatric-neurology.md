@@ -1,6 +1,6 @@
 ---
 layout: post
-title: cerebellar volume in tuberous sclerosis complex
+title: Cerebellar Volume in Tuberous Sclerosis Complex
 date: 2013-03-01 13:00:00
 categories: [science, imaging]
 ---
