@@ -38,6 +38,9 @@ National Institute of Mental Health on PET image analysis in
 schizophrenia. &nbsp;I've also held industry posts at govWorks,
 Inc., a dot-com era web startup, and at Nokia.
 
+<a name="contact"></a>
+Feel free to contact me at ![nospam](/public/assets/contact.png)
+
 <!-- My abbreviated cv is <a
 href="http:&#47;&#47;neilweisenfeld.com&#47;wp&#47;wp-content&#47;uploads&#47;2012&#47;02&#47;weisenfeld-resume-20Feb2012.pdf">here<&#47;a>.
 Note that I keep my phone numbers off of the on-line version, for
