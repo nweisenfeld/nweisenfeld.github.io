@@ -78,7 +78,7 @@ An example of my configuration, on [Hover.com][] (my domain name registrar's web
 
 ![Hover DNS Configuration](/public/assets/2014-04-21-jekyll-blog-pt-1-hoverDNS.jpg)
 
-There's a CNAME for 'www' defined relative to my domain, and for the special token '@' which matches just the domain name, with no leading subdomain or hostname (i.e. 'www').
+There's a CNAME for 'www' defined relative to my domain, and for the special token '@' which matches just the domain name, with no leading subdomain or hostname (e.g. 'www').
 
 Note that any changes you make in DNS configuration could take minutes to hours to propagate, especially if you make changes to a DNS record, rather than adding a new one.
 
