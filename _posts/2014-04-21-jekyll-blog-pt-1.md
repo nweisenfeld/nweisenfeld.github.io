@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Static Blog with Jekyll, Git, and S3 - Part 1
+title: A Static Blog with Jekyll and S3 - Part 1
 date: 2014-04-03 23:52:52
 category: computing
 ---
