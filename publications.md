@@ -14,6 +14,9 @@ categories: []
 tags: []
 comments: []
 ---
+Rather than using this static list, I'd encourage you to visit my [Google
+Scholar](http://scholar.google.com/citations?sortby=pubdate&hl=en&user=zMtjPvMAAAAJ) page, which I keep updated automatically.
+
 Publications are in reverse chronological order with all types of submissions listed together. As time permits, I will reorganize this and will be adding links to the associated papers, talks, posters, etc.
 
 <ol>
