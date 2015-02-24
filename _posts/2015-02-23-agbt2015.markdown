@@ -1,0 +1,32 @@
+---
+layout: post
+title: "Personal Genome Assembly"
+date: 2015-02-23 12:51:00
+category: science
+---
+
+I'll be talking at [AGBT2015] about ``Personal Genome
+Assembly.''  This talk discusses how our group's new version of
+[DISCOVAR], called DISCOVAR *de novo*, can be used to generate a
+whole-genome assembly of very high quality, for about $10k in 
+sequencing and compute costs, all in.  
+
+DISCOVAR *de novo* can assemble multiple-samples together, such as
+a familial trio or a tumor-normal pair.  This allows the assembly to
+conveniently depict differences between samples, even for events
+that are not alignable to a reference.
+
+We believe that DISCOVAR *de novo* does more with short-read data than
+has been achieved thus far, but we acknowledge that short-read data has
+its limitations.  The second part of my talk will highlight recent work
+with a powerful new [datatype] being unveiled at this year's conference.
+
+Free free to email me (see below) if you'd like to talk in person, 
+otherwise I hope you'll make my talk at
+7:30 p.m. on Thursday in the Bioinformatics parallel session.
+
+![nospam](/public/assets/work-contact.png)
+
+[DISCOVAR]: http://www.broadinstitute.org/software/discovar/blog/
+[AGBT2015]: http://agbt.org/agenda.html
+[datatype]: http://10xgenomics.com
