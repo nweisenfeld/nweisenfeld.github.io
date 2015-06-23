@@ -37,7 +37,7 @@ This should be pretty self-explanatory.  Any URL, on the site, starting with /wp
 
 [post1]: {% post_url 2012-05-23-how-to-sync-ipad-apps-such-as-devonthink-to-go-at-work-bonjour-over-bluetooth-pan-instead-of-ad-hoc-wi-fi %}
 [post2]: {% post_url 2011-03-26-solution-for-itunes-credit-card-processing-is-temporarily-unavailable %}
-[textdrive]: {% post_url 2014-04-02-hello-jekyll %}
-[Jekyll]: {% post_url 2014-04-03-jekyll-blog-pt-1 %}
+[textdrive]: {% post_url 2014-04-03-hello-jekyll %}
+[Jekyll]: {% post_url 2014-04-21-jekyll-blog-pt-1 %}
 [s3-redirect]: http://docs.aws.amazon.com/AmazonS3/latest/dev/how-to-page-redirect.html
 [s3-bucket-redirect]: http://docs.aws.amazon.com/AmazonS3/latest/dev/HowDoIWebsiteConfiguration.html
