@@ -1,15 +1,16 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:         true
+markdown: redcarpet
+highlighter: pygments
 
 # Permalinks
-permalink:        /:year/:month/:day/:title
+permalink: /:year/:month/:day/:title
 
 # Setup
-title:            neil weisenfeld
+title: neil weisenfeld
 tagline:          
-description:      "I've been working at the intersection of computer science and biological research for more than a decade.  Here's what I'm thinking about these days."
-url:              http://www.neilweisenfeld.com
+description: "I've been working at the intersection of computer science and biological research for more than a decade.  Here's what I'm thinking about these days."
+url: http://www.neilweisenfeld.com
+baseurl: ""
 
 author:
   name:           'Neil Weisenfeld'
