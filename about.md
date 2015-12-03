@@ -15,9 +15,7 @@ tags: []
 comments: []
 ---
 
-I am a computational biologist and computer scientist at the Broad
-Institute of Harvard and MIT.  I'm currently working on the development
-of novel algorithms for genome assembly.
+I am a computational biologist and computer scientist at [10X Genomics][]. I was previously a senior staff scientist at The Broad Institute of MIT and Harvard where I worked on the development of the DISCOVAR and DISCOVAR *de novo* genome assembly algorithms. At 10X, I continue support for our previous assemblers while working on new algorithms tailored toward the unique data types that 10X produces. 
 
 My post-doctoral work, as well as my doctoral dissertation research,
 was performed at Children's Hospital Boston and Harvard Medical
@@ -40,6 +38,8 @@ Inc., a dot-com era web startup, and at Nokia.
 
 <a name="contact"></a>
 Feel free to contact me at ![nospam](/public/assets/contact.png)
+
+[10X Genomics]: http://10xgenomics.com
 
 <!-- My abbreviated cv is <a
 href="http:&#47;&#47;neilweisenfeld.com&#47;wp&#47;wp-content&#47;uploads&#47;2012&#47;02&#47;weisenfeld-resume-20Feb2012.pdf">here<&#47;a>.
