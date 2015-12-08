@@ -3,6 +3,7 @@ layout: post
 status: publish
 published: true
 title: How to Sync iPad Apps Such as DevonThink To Go at Work- Bonjour over Bluetooth PAN instead of Ad-Hoc Wi-Fi
+slug: how-to-sync-ipad-devonthink-over-bluetooth
 author: weisen
 author_login: weisen
 author_email: weisen123@gmail.com
