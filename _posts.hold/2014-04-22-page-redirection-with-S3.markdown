@@ -35,7 +35,7 @@ Amazon's S3 static hosting provides two ways to redirect requests from one URL t
 
 This should be pretty self-explanatory.  Any URL, on the site, starting with /wp/420 is rewritten to the address of the 2012/05/23 post and likewise with any URL *starting with* /wp/202.  This also redirects garbage URLs, as long as they start with the "magic" prefixes, but that's fine.  Matching on just the prefix was enough to make the original Wordpress URLs unique and made testing easy. The various types of `<RoutingRule>` entries are covered in the AWS documentation [here][s3-bucket-redirect]. 
 
-> [post1]: {% post_url 2012-05-23-how-to-sync-ipad-apps-such-as-devonthink-to-go-at-work-bonjour-over-bluetooth-pan-instead-of-ad-hoc-wi-fi %}
+[post1]: {% post_url 2012-05-23-how-to-sync-ipad-devonthink-over-bluetooth %}
 > [post2]: {% post_url 2011-03-26-solution-for-itunes-credit-card-processing-is-temporarily-unavailable %}
 [textdrive]: {% post_url 2014-04-03-hello-jekyll %}
 [Jekyll]: {% post_url 2014-04-21-jekyll-blog-pt-1 %}
