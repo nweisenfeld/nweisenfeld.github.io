@@ -1,0 +1,25 @@
+---
+layout: post
+title: "AGBT 2016"
+date: 2016-02-12 11:00:05
+category: science
+---
+
+So I will _not_ be attending AGBT this year, however I've
+spent the past 8 months working with David Jaffe on a new assembler
+for [10X Genomics].  David will be presenting this work in a 
+talk entitled
+
+> "Low cost Linked-Reads yield long range haplotyped human assemblies from a nanogram of DNA”
+>
+> Concurrent sessions, Friday, 8:30 p.m.
+>
+
+So I hope you can attend and check out some exciting new work.  We've just
+scratched the surface of what can be achieved with 10X data, and yet we've
+surpassed Discovar De Novo in many regards, with data that costs far less.  
+
+Check out the talk!
+
+
+[10X Genomics]: http://www.10xgenomics.com
