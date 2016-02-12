@@ -16,8 +16,9 @@ talk entitled
 >
 
 So I hope you can attend and check out some exciting new work.  We've just
-scratched the surface of what can be achieved with 10X data, and yet we've
-surpassed Discovar De Novo in many regards, with data that costs far less.  
+scratched the surface of what can be achieved with 10X data, and yet we're
+generating contigs on par with Discovar De Novo, but now with long scaffolds 
+and phasing.  And we're doing it with data that's even less expensive.
 
 Check out the talk!
 
