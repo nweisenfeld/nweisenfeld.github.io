@@ -15,7 +15,12 @@ tags: []
 comments: []
 ---
 
-I am a computational biologist and computer scientist at [10X Genomics][]. I was previously a senior staff scientist at The Broad Institute of MIT and Harvard where I worked on the development of the DISCOVAR and DISCOVAR *de novo* genome assembly algorithms. At 10X, I continue support for our previous assemblers while working on new algorithms tailored toward the unique data types that 10X produces. 
+I am a computational biologist and computer scientist at [10X
+Genomics][]. I was previously a senior staff scientist at The Broad
+Institute of MIT and Harvard where I worked on the development of
+the DISCOVAR and DISCOVAR *de novo* genome assembly algorithms. At
+10X, I work on algorithms for genome assembly that utilize the 
+unique data that 10X produces.
 
 My post-doctoral work, as well as my doctoral dissertation research,
 was performed at Children's Hospital Boston and Harvard Medical
