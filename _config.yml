@@ -9,7 +9,7 @@ permalink: /:year/:month/:day/:title
 title: neil weisenfeld
 tagline:          
 description: "I've been working at the intersection of computer science and biological research for more than a decade.  Here's what I'm thinking about these days."
-url: http://www.neilweisenfeld.com
+url: http://neilweisenfeld.com
 baseurl: ""
 
 author:
