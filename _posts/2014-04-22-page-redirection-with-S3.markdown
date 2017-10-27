@@ -2,7 +2,7 @@
 layout: post
 title: Redirecting Page Requests on S3
 date: 2014-04-22 13:19:00
-category: computing,web
+categories: [computing,web]
 tags: aws,s3
 ---
 
