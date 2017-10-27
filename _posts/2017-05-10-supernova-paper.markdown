@@ -2,7 +2,7 @@
 layout: post
 title: "Direct determination of diploid genome sequences"
 date: 2017-04-05 11:00:05
-category: science
+categories: [science,conferences]
 ---
 
 Our paper describing Supernova, the [10x][10X Genomics] whole-genome _de novo_ 

@@ -2,7 +2,7 @@
 layout: post
 title: "Talk at ASHG 2017 on MHC"
 date: 2017-10-19 09:33:00
-category: science, conferences
+categories: [science, conferences]
 ---
 
 On Thursday, October 19 at 11:00 a.m., join me at ASHG for a talk
@@ -12,7 +12,8 @@ our current development version of Supernova(tm), the [10x Genomics][]
 that we studied, MHC was in a single, phased scaffold.  At the exon
 level, the peptide binding sites were correctly reconstructed, to
 base-level accuracy, for 35 of 36 genes x subjects.  Most whole-genes 
-were reconstructed, but with some level of substitutions and indels. 
+were reconstructed perfectly, with some genes having a small number
+of putative subtitutions and indels.
 
 This is definitely a work-in-progress, but we're looking toward a future
 when we can routinely assemble, *de novo*, the entire MHC region.
