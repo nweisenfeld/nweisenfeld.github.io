@@ -1,0 +1,24 @@
+---
+layout: post
+title: "Talk at ASHG 2017 on MHC"
+date: 2017-10-19 09:33:00
+category: science, conferences
+---
+
+On Thursday, October 19 at 11:00 a.m., join me at ASHG for a talk
+about *de novo* assembly applied to MHC/HLA.  This work examines
+our current development version of Supernova(tm), the [10x Genomics][]
+*de novo* assembler, specifically in the MHC region.  For the samples
+that we studied, MHC was in a single, phased scaffold.  At the exon
+level, the peptide binding sites were correctly reconstructed, to
+base-level accuracy, for 35 of 36 genes x subjects.  Most whole-genes 
+were reconstructed, but with some level of substitutions and indels. 
+
+This is definitely a work-in-progress, but we're looking toward a future
+when we can routinely assemble, *de novo*, the entire MHC region.
+
+
+[10x Genomics]: http://www.10xgenomics.com
+[GR]: http://genome.cshlp.org/content/early/2017/03/15/gr.214874.116
+[NCBI]: https://www.ncbi.nlm.nih.gov/assembly/?term=supernova
+[Twitter]: https://twitter.com/weisen
